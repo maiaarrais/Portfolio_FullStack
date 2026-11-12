@@ -36,7 +36,7 @@ For this repository's GitHub Pages path:
 GITHUB_PAGES=true npm run build
 ```
 
-This sets the base path to `/Portfolio_FullStack/`. All image, media, and resume URLs use that base. Publishing is a separate step; pushing this source does not publish a website.
+This sets the base path to `/Portfolio_FullStack/`. All image, media, and resume URLs use that base. GitHub Pages publishes the committed `docs/` folder from `main`. After changing the site, rebuild with the command above and copy `dist/client/` into `docs/` before pushing. Keep `docs/.nojekyll` in place.
 
 ## Edit content
 
@@ -50,3 +50,7 @@ This sets the base path to `/Portfolio_FullStack/`. All image, media, and resume
 Keep original project scope and contribution accurate when editing. Add measured results only when a method and supporting evidence are available. The portfolio presents academic and experimental prototypes; it does not imply aircraft experience or production deployment.
 
 See [PORTFOLIO_GUIDE.md](PORTFOLIO_GUIDE.md) for content rationale, evidence sources, and useful additions before the application. See [MEDIA_SOURCES.md](MEDIA_SOURCES.md) for image and video provenance.
+
+## Live portfolio
+
+https://maiaarrais.github.io/Portfolio_FullStack/
