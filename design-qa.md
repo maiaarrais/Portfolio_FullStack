@@ -65,3 +65,7 @@ Changed the project thumbnail and first gallery image to the original photo show
 ## Bracelet documentation correction
 
 Replaced both bracelet documentation links with `projects/connected-bracelet/index.html`. The page uses the existing typography/palette and includes original photographs, contribution notes, engineering decisions, and an interactive four-stage communication walkthrough. Verified stage selection and photo enlargement/close in the browser. The walkthrough describes conceptual flow and does not claim live device data.
+
+## Original hardware media update
+
+Added two original bracelet videos to the case study and documentation, plus the physical LED box photograph and two videos on `projects/3d-led-box/index.html`. Homepage LED preview uses the physical photo and links the new documentation; that page retains a separate link to the browser visualization. Browser verification confirmed all four H.264 MP4 clips play (readyState 4, paused false, advancing currentTime). Desktop portrait video presentation uses contain sizing; mobile media grids stack. Videos use native controls, playsinline, and preload none. Original file mappings are in MEDIA_SOURCES.md.

@@ -8,7 +8,7 @@ A responsive engineering portfolio for Maia's application to **BETA Technologies
 - **Rising Intentions:** a MongoDB-backed submission and statistics API connected to a shared visualization.
 - **Ollama Classroom:** a real Unity demo of local LLM dialogue, bounded conversation context, and HTTP integration.
 - **Long-Distance Bracelet:** dedicated documentation with original photos, engineering notes, and an interactive device-communication walkthrough.
-- Additional work: 3D LED Box, Learning Experience Platform, and You As I Made.
+- Additional work: 3D LED Box with physical installation photo and two original videos, Learning Experience Platform, and You As I Made.
 
 Each featured project opens an accessible native dialog with original media, problem framing, personal contribution, implementation details, an architecture summary, tradeoffs, limitations, and next steps. Project source links lead to the existing repositories. Resume download and email contact work without a backend.
 

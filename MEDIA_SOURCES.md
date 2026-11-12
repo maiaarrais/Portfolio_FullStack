@@ -12,3 +12,9 @@ All portfolio previews show original project media rather than generated represe
 - Resume: user-supplied `BETA_Resume_Maia_Arrais.pdf`.
 
 Fonts: DM Sans, served by Google Fonts. UI icons: Phosphor Icons via `@phosphor-icons/react`. Icon and font licenses remain with their respective packages/providers.
+
+## Additional original media
+
+- Bracelet demonstrations: user-supplied `IMG_3013.MOV` and `IMG_3010.MOV`, in that order. Converted to H.264/AAC MP4; poster frames extracted at one second. Included in the bracelet case study and documentation page.
+- Physical 3D LED Box: user-supplied `IMG_5610.HEIC`, converted to a web-optimized image with orientation preserved; `IMG_5623.MOV` and `IMG_5627.MOV`, converted to H.264/AAC MP4 with original audio and poster frames.
+- The new physical-build page links the original browser visualization separately; it does not present rendered LED imagery as a photograph of the physical object.
