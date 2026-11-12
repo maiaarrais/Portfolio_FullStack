@@ -6,11 +6,11 @@ final result: passed
 
 - Source: selected Engineering Editorial direction, saved as `qa/selected-reference.jpg`.
 - Original source pixels: 1024 × 1600; normalized to 1440 × 2250 for comparison.
-- Desktop implementation: `../portfolio-desktop.jpg`, captured at 1440 CSS pixels wide, density 1. Viewport 1440 × 1024; full-page image includes the expanded portfolio below the fold.
+- Desktop implementation: `qa/implementation-desktop.jpg`, captured at 1440 CSS pixels wide, density 1. Viewport 1440 × 1024; full-page image includes the expanded portfolio below the fold.
 - Combined full-region comparison: `qa/comparison-final.jpg`.
 - Focused typography/hero comparison: `qa/hero-comparison-final.jpg`.
-- Case-study interaction evidence: `../portfolio-case-study.jpg`.
-- Mobile tested at 390 × 844 CSS pixels; measured document width 390 with no horizontal overflow. Default in-app browser layout also checked at 615 pixels wide.
+- Case-study interaction evidence: `qa/implementation-case-study.jpg`.
+- Mobile evidence: `qa/implementation-mobile.jpg`. Mobile tested at 390 × 844 CSS pixels; measured document width 390 with no horizontal overflow. Default in-app browser layout also checked at 615 pixels wide.
 
 ## Intended adaptations
 
