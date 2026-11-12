@@ -46,7 +46,7 @@ The user selected direction 1, then requested real project pictures, previews, f
 ## Follow-up polish
 
 - [P3] Some original screenshots contain captured browser/editor chrome and a thin bottom edge. These are authentic development captures. Re-recording clean project media would improve the presentation further.
-- The bracelet case study links the resume brief until a verified source-code repository is supplied. Original photos are included now.
+- The bracelet case study links its dedicated documentation page with original photos and an interactive high-level communication walkthrough. A source-code repository is still a useful future addition.
 
 ## Implementation checklist
 
@@ -61,3 +61,7 @@ The user selected direction 1, then requested real project pictures, previews, f
 ## Bracelet photo update
 
 Changed the project thumbnail and first gallery image to the original photo showing both breadboard circuits. Verified the rendered case-study lead image and caption in the browser at its normal responsive width; the remaining photos stay available in the gallery.
+
+## Bracelet documentation correction
+
+Replaced both bracelet documentation links with `projects/connected-bracelet/index.html`. The page uses the existing typography/palette and includes original photographs, contribution notes, engineering decisions, and an interactive four-stage communication walkthrough. Verified stage selection and photo enlargement/close in the browser. The walkthrough describes conceptual flow and does not claim live device data.

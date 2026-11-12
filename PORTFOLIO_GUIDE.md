@@ -13,7 +13,7 @@ The [BETA role description](https://job-boards.greenhouse.io/betatechnologiesinc
 | Flow Studio | Customer workflow, validation, APIs, persistence | Original admin/confirmation captures; Flask source; project README |
 | Rising Intentions | Data ingestion, MongoDB, aggregation, frontend visualization | Original skyline/questionnaire captures; `/api/submit` and `/api/stats` source |
 | Ollama Classroom | HTTP integration, local inference, bounded context, reproducible setup | Original video; README with endpoint, model, controls, and limitations |
-| Long-Distance Bracelet | Hardware/software communication and hands-on debugging | Supplied development photos; updated resume project brief |
+| Long-Distance Bracelet | Hardware/software communication and hands-on debugging | Original development photos; dedicated project documentation and interactive communication walkthrough |
 
 ## What each case study includes
 
