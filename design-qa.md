@@ -57,3 +57,7 @@ The user selected direction 1, then requested real project pictures, previews, f
 - [x] Resume and contact
 - [x] Content rationale and application guide
 - [x] Build and packaging validation
+
+## Bracelet photo update
+
+Changed the project thumbnail and first gallery image to the original photo showing both breadboard circuits. Verified the rendered case-study lead image and caption in the browser at its normal responsive width; the remaining photos stay available in the gallery.
